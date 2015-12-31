@@ -1,5 +1,7 @@
 $title Resource Recharging Station Location Routing Problem
 
+*GAMS Version: 24.3
+
 option lp = CBC,mip=cbc;
 
 Sets i node index /1*5/
